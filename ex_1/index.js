@@ -28,9 +28,7 @@ const { readFile } = require("../untils");
                 }
             }
             Try(0, 0)
-            console.log('====================================');
             console.log(`#${k + 1} ${result}`);
-            console.log('====================================');
         }
     })
 
