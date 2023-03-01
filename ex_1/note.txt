@@ -1,0 +1,13 @@
+bài này đại loại là cho một mảng và một giá trị là tổng giá trị max.
+tìm các tập hợp số trong mảng, sao cho tổng giá trị cao nhất có thể
+
+vd:
+max = 10
+arr [4,5,2,6]
+
+=> res = 6,4 = 10
+
+không phải 6,5 = 11
+không phải 4,5 = 9
+
+=> 10 là số lớn nhất có thể có và nhỏ hơn hoặc bằng max.
